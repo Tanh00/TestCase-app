@@ -18,6 +18,7 @@ export const styles = StyleSheet.create({
     alignSelf: 'center',
     width: 72,
     height: 72,
+    left: 50,
     borderRadius: 20,
     justifyContent: 'center',
     alignItems: 'center',
@@ -25,8 +26,8 @@ export const styles = StyleSheet.create({
   },
 
   logoImage: {
-    width: 90,
-    height: 90,
+    width: 900,
+    height: 900,
   },
 
   title: {
